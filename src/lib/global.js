@@ -1,7 +1,7 @@
 
 import moment from "moment";
 
-
+// Great
 
 export class WorkdayStats {
   constructor(data) {
